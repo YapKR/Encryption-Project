@@ -1,5 +1,3 @@
-
-
 document.getElementById('showSignup').addEventListener('click', function(event) {
     event.preventDefault();
     document.getElementById('loginForm').classList.add('hidden');
